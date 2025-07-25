@@ -1,0 +1,16 @@
+{
+  "name": "rustplus-discord-bot",
+  "version": "1.0.0",
+  "description": "Rust+ Discord bot for raid alerts",
+  "main": "rustplus-discord-bot.js",
+  "scripts": {
+    "start": "node rustplus-discord-bot.js"
+  },
+  "dependencies": {
+    "@liamcottle/rustplus.js": "^1.0.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
