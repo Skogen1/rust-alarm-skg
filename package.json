@@ -7,7 +7,7 @@
     "start": "node rustplus-discord-bot.js"
   },
   "dependencies": {
-    "@liamcottle/rustplus.js": "^0.4.6",
+    "@liamcottle/rustplus.js": "github:LiamCottle/node-rustplus",
     "discord.js": "^14.11.0",
     "dotenv": "^16.3.1"
   },
